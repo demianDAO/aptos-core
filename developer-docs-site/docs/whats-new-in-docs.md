@@ -77,7 +77,7 @@ The [hardware requirements](/docs/nodes/validator-node/operator/node-requirement
 
 ## 12 September 2022
 
-- A new set of documents on Aptos [Coin and Token](/concepts/coin-and-token/index.md) are posted. 
+- A new set of documents on Aptos [Coin and Token](/concepts/coin-and-token/index.md) are posted.
 - A new document describing how to [bootstrap a new fullnode using data restore](/nodes/full-node/bootstrap-fullnode.md) is posted.
 
 ## 06 September 2022
@@ -94,7 +94,6 @@ The [hardware requirements](/docs/nodes/validator-node/operator/node-requirement
 
 - A new guide describing [Upgrading the Move Code](/guides/move-guides/upgrading-move-code.md) is posted.
 
-
 ## 24 August 2022
 
 - The Korean language version of the [Aptos White Paper](/aptos-white-paper/aptos-white-paper-in-korean) is posted.
@@ -107,7 +106,7 @@ The [hardware requirements](/docs/nodes/validator-node/operator/node-requirement
 
 ## 11 August 2022
 
-- The [Aptos White Paper](/aptos-white-paper/aptos-white-paper-index) is released.
+- The [Aptos White Paper](/aptos-white-paper/aptos-white-paper-in-chinese) is released.
 
 - A section explaining the network [Port settings](/nodes/validator-node/operator/node-requirements#ports) for the nodes connecting to an Aptos network is added.
 
